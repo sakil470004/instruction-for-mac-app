@@ -1,0 +1,21 @@
+Download command : yt-dlp "YouTube link"
+✅ Supported Sites Include:
+YouTube
+
+Facebook
+
+Twitter / X
+
+Instagram
+
+TikTok
+
+Vimeo
+
+Dailymotion
+
+Bilibili
+
+SoundCloud
+
+Many news sites, adult sites, and streaming services (depending on DRM or login requirements)
