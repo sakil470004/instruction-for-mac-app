@@ -1,4 +1,5 @@
 Download command : yt-dlp "YouTube link"
+command for downloading best quality :yt-dlp "YouTube link" -S res,ext:mp4:m4a --recode mp4
 ✅ Supported Sites Include:
 YouTube
 
